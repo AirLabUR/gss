@@ -29,3 +29,70 @@ effortlessly.</div>
 ![arch](images/diagramv3.png)
 
 <br>
+
+<table align="center">
+  <thead>
+    <tr>
+      <th> </th>
+      <th>Reference Voice</th>
+      <th>LUT Sample</th>
+      <th>D-vector Sample</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Female Singer1</th>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/inset_ref/101.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/inset_emb/lut_101.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/inset_dvec/dvec_101.wav"></audio></td>
+    </tr>
+    <tr>
+      <th>Female Singer2</th>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/inset_ref/238.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/inset_emb/lut_238.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/inset_dvec/dvec_238.wav"></audio></td>
+    </tr>
+    <tr>
+      <th>Female Singer3</th>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/inset_ref/1161.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/inset_emb/lut_1161.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/inset_dvec/dvec_1161.wav"></audio></td>
+    </tr>
+    <tr>
+      <th>Male Singer1</th>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/inset_ref/658.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/inset_emb/lut_658.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/inset_dvec/dvec_658.wav"></audio></td>
+    </tr>
+    <tr>
+      <th>Male Singer2</th>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/inset_ref/1189.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/inset_emb/lut_1189.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/inset_dvec/dvec_1189.wav"></audio></td>
+    </tr>
+    <tr>
+      <th>Male Singer3</th>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/inset_ref/1512.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/inset_emb/lut_1512.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/inset_dvec/dvec_1512.wav"></audio></td>
+    </tr>
+  </tbody>
+</table>
