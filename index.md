@@ -1,7 +1,7 @@
-# <center>DurIAN-SC: Duration Informed Attention Network based Singing Voice Conversion System</center>
+# <center>Music Source Separation with Generative Flow</center>
 
-<center>Liqiang Zhang, Chengzhu Yu, Heng Lu, Chao Weng, Chunlei Zhang, Yusong Wu, Xiang Xie, Zijin Li, Dong Yu</center>
-<center>Tencent AI Lab</center>
+<center>Ge Zhu, Jordan Darefsky, Fei Jiang, Anton Selitskiy, and Zhiyao Duan</center>
+<center>AIRLab (University of Rochester)</center>
 
 
 ## Abstract
