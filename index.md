@@ -37,6 +37,7 @@ effortlessly.</div>
       <th>Vocal</th>
       <th>Bass</th>
       <th>Drums</th>
+      <th>Other</th>
     </tr>
   </thead>
   <tbody>
