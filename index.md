@@ -43,11 +43,11 @@ effortlessly.</div>
     <tr>
       <th>Female Singer1</th>
       <td><audio controls="" preload="auto">
-            <source src="wavs/inset_ref/101.wav"></audio></td>
+            <source src="demo/GT/vocals.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/inset_emb/lut_101.wav"></audio></td>
+            <source src="demo/GT/bass.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/inset_dvec/dvec_101.wav"></audio></td>
+            <source src="demo/GT/drums.wav"></audio></td>
     </tr>
     <tr>
       <th>Female Singer2</th>
