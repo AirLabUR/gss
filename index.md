@@ -34,65 +34,77 @@ effortlessly.</div>
   <thead>
     <tr>
       <th> </th>
-      <th>Reference Voice</th>
-      <th>LUT Sample</th>
-      <th>D-vector Sample</th>
+      <th>Vocal</th>
+      <th>Bass</th>
+      <th>Drums</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th>Female Singer1</th>
+      <th>Groun Truth</th>
       <td><audio controls="" preload="auto">
             <source src="demo/GT/vocals.wav"></audio></td>
       <td><audio controls="" preload="auto">
             <source src="demo/GT/bass.wav"></audio></td>
       <td><audio controls="" preload="auto">
             <source src="demo/GT/drums.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="demo/GT/other.wav"></audio></td>
     </tr>
     <tr>
-      <th>Female Singer2</th>
+      <th>Openunmix</th>
       <td><audio controls="" preload="auto">
-            <source src="wavs/inset_ref/238.wav"></audio></td>
+            <source src="demo/openunmix/1_vocals_22k.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/inset_emb/lut_238.wav"></audio></td>
+            <source src="demo/openunmix/1_bass_22k.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/inset_dvec/dvec_238.wav"></audio></td>
+            <source src="demo/openunmix/1_drums_22k.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="demo/openunmix/1_other_22k.wav"></audio></td>
     </tr>
     <tr>
-      <th>Female Singer3</th>
+      <th>Demucs</th>
       <td><audio controls="" preload="auto">
-            <source src="wavs/inset_ref/1161.wav"></audio></td>
+            <source src="demo/demucs/vocals_22k.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/inset_emb/lut_1161.wav"></audio></td>
+            <source src="demo/demucs/bass_22k.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/inset_dvec/dvec_1161.wav"></audio></td>
+            <source src="demo/demucs/drums_22k.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="demo/demucs/other_22k.wav"></audio></td>
     </tr>
     <tr>
-      <th>Male Singer1</th>
+      <th>Waveunet</th>
       <td><audio controls="" preload="auto">
-            <source src="wavs/inset_ref/658.wav"></audio></td>
+            <source src="demo/waveunet/mixture-1_vocals_22k.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/inset_emb/lut_658.wav"></audio></td>
+            <source src="demo/waveunet/mixture-1_bass_22k.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/inset_dvec/dvec_658.wav"></audio></td>
+            <source src="demo/waveunet/mixture-1_drums_22k.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="demo/waveunet/mixture-1_other_22k.wav"></audio></td>
     </tr>
     <tr>
-      <th>Male Singer2</th>
+      <th>Tasnet</th>
       <td><audio controls="" preload="auto">
-            <source src="wavs/inset_ref/1189.wav"></audio></td>
+            <source src="demo/tasnet/vocals_22k.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/inset_emb/lut_1189.wav"></audio></td>
+            <source src="demo/tasnet/bass_22k.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/inset_dvec/dvec_1189.wav"></audio></td>
+            <source src="demo/tasnet/drums_22k.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="demo/tasnet/other_22k.wav"></audio></td>
     </tr>
     <tr>
-      <th>Male Singer3</th>
+      <th>InstGlow</th>
       <td><audio controls="" preload="auto">
-            <source src="wavs/inset_ref/1512.wav"></audio></td>
+            <source src="demo/instGlow/vocals.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/inset_emb/lut_1512.wav"></audio></td>
+            <source src="demo/instGlow/bass.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="wavs/inset_dvec/dvec_1512.wav"></audio></td>
+            <source src="demo/instGlow/drums.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="demo/instGlow/other.wav"></audio></td>
     </tr>
   </tbody>
 </table>
