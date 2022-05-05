@@ -6,23 +6,7 @@
 
 ## Abstract
 
-<div style="text-align: justify"> Music source separation under full supervision,
-where paired mixed signals and source signals are both available,
-has obtained substantial progress over the years. However, this
-setting highly relies on large amounts of paired data. Source-only
-supervision, on the other hand, decouples the process of learning
-a mapping from a mixture to particular sources into a two
-stage paradigm: source modeling and separation. Recent systems
-under source-only supervision either achieve good performance
-in synthetic toy experiments or limited performance in music
-separation task. In this paper, we leverage flow based generators
-to train music source priors and likelihood based objective to
-separate music mixtures. Experiments show that in both singing
-voice and music separation tasks in MUSDB18 dataset, our
-proposed systems achieve competitive results to one of the full
-supervision systems. We also demonstrate one variant of our
-proposed systems is capable of separating new source tracks
-effortlessly.</div> 
+<div style="text-align: justify"> Full supervision models for source separation are trained on mixture-source parallel data and have achieved superior performance in recent years. However, large-scale and naturally mixed parallel training data are difficult to obtain for music, and such models are difficult to adapt to mixtures with new sources. Source-only supervision models, in contrast, only require clean sources for training; They learn source models and then apply these models to separate the mixture. In this paper, we leverage flow-based implicit generators to train music source priors and likelihood-based objectives to separate music mixtures. Experiments show that in singing voice separation and music separation tasks, our proposed approach achieves competitive performance to one of the full supervision systems. We also demonstrate that our approach is capable of separating new source tracks without the need of retraining the separation model from scratch as what full supervision models do. </div> 
 
 <br>
 
