@@ -1,7 +1,7 @@
 # <center>Music Source Separation with Generative Flow</center>
 
-<center>Ge Zhu<sup>1</sup>, Jordan Darefsky<sup>1</sup>, Fei Jiang<sup>2</sup>, Anton Selitskiy<sup>1</sup>, and Zhiyao Duan<sup>1</sup></center>
-<center><sup>1</sup>AIRLab (University of Rochester), <sup>2</sup>XX</center>
+<center>Ge Zhu, Jordan Darefsky, Fei Jiang, Anton Selitskiy, and Zhiyao Duan</center>
+<center>AIRLab (University of Rochester), </center>
 
 
 ## Abstract
