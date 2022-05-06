@@ -97,26 +97,34 @@
     </tr>
   </tbody>
 </table>
-
 <br>
-<div style="text-align: justify"> Bounus tracks using InstGlow: anyways here's wonderwall, and smoke on the water: </div> 
+
+## Bounus tracks
+<div style="text-align: justify">InstGlow: anyways here's wonderwall, and smoke on the water: </div> 
 <table align="center">
   <thead>
     <tr>
+      <th> </th>
+      <th>Mixtures</th>
+      <th>Vocals</th>
+      <th>Accompaniment</th>
+    </tr>
+  </thead>
+    <tr>
       <th>Wonderwall</th>
-      <td><audio controls="" preload="none" style="width: 150px;">
+      <td><audio controls="" preload="none" style="width: 180px;">
             <source src="demo/ww.wav"></audio></td>
-      <td><audio controls="" preload="none" style="width: 150px;">
+      <td><audio controls="" preload="none" style="width: 180px;">
             <source src="demo/instGlow/ww_vocals.wav"></audio></td>
-      <td><audio controls="" preload="none" style="width: 150px;">
+      <td><audio controls="" preload="none" style="width: 180px;">
             <source src="demo/instGlow/ww_acc.wav"></audio></td>
     </tr>
     <th>SOTW</th>
-      <td><audio controls="" preload="none" style="width: 150px;">
+      <td><audio controls="" preload="none" style="width: 180px;">
             <source src="demo/sotw.wav"></audio></td>
-      <td><audio controls="" preload="none" style="width: 150px;">
+      <td><audio controls="" preload="none" style="width: 180px;">
             <source src="demo/instGlow/sotw_vocals.wav"></audio></td>
-      <td><audio controls="" preload="none" style="width: 150px;">
+      <td><audio controls="" preload="none" style="width: 180px;">
             <source src="demo/instGlow/sotw_acc.wav"></audio></td>
     </tr>
   </tbody>
