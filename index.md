@@ -119,19 +119,20 @@
   <tbody>
     <tr>
       <th>Wonderwall</th>
-      <td><audio controls="" preload="none" style="width: 180px;">
+      <td><audio controls="" preload="none" style="width: 190px;">
             <source src="demo/ww.wav"></audio></td>
-      <td><audio controls="" preload="none" style="width: 180px;">
+      <td><audio controls="" preload="none" style="width: 190px;">
             <source src="demo/instGlow/ww_vocals.wav"></audio></td>
-      <td><audio controls="" preload="none" style="width: 180px;">
+      <td><audio controls="" preload="none" style="width: 190px;">
             <source src="demo/instGlow/ww_acc.wav"></audio></td>
     </tr>
+    <tr>
     <th>SOTW</th>
-      <td><audio controls="" preload="none" style="width: 180px;">
+      <td><audio controls="" preload="none" style="width: 190px;">
             <source src="demo/sotw.wav"></audio></td>
-      <td><audio controls="" preload="none" style="width: 180px;">
+      <td><audio controls="" preload="none" style="width: 190px;">
             <source src="demo/instGlow/sotw_vocals.wav"></audio></td>
-      <td><audio controls="" preload="none" style="width: 180px;">
+      <td><audio controls="" preload="none" style="width: 190px;">
             <source src="demo/instGlow/sotw_acc.wav"></audio></td>
     </tr>
   </tbody>
