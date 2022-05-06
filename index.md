@@ -16,6 +16,10 @@
 
 <div style="text-align: justify"> This audio clip is from 'Zeno - Signs' in MUSDB18 test partition. </div> 
 <br>
+<audio controls="" preload="none">
+  <source src="demo/mixture-1.wav">
+</audio>
+<br>
 <table align="center">
   <thead>
     <tr>
