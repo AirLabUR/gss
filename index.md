@@ -18,15 +18,15 @@
   <thead>
     <tr>
       <th> </th>
-      <th>Vocal</th>
-      <th>Bass</th>
-      <th>Drums</th>
-      <th>Other</th>
+      <th style="width:50%">Vocal</th>
+      <th style="width:50%">Bass</th>
+      <th style="width:50%">Drums</th>
+      <th style="width:50%">Other</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th>Groun Truth</th>
+      <th>Ground Truth</th>
       <td><audio controls="" preload="auto">
             <source src="demo/GT/vocals_cut.wav"></audio></td>
       <td><audio controls="" preload="auto">
