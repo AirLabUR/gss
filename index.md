@@ -14,11 +14,11 @@
 
 ## Audio Samples
 
-<div style="text-align: justify"> This audio clip is from 'Zeno - Signs' in MUSDB18 test partition. </div> 
+<div style="text-align: justify"> This mixture audio clip is from 'Zeno - Signs' in MUSDB18 test partition: </div> 
 <br>
-<audio controls="" preload="none">
+<center><audio controls="" preload="none">
   <source src="demo/mixture-1.wav">
-</audio>
+</audio></center>
 <br>
 <table align="center">
   <thead>

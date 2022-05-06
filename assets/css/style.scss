@@ -1,6 +1,7 @@
 ---
 ---
+
 $large-breakpoint: 70em;
 $medium-breakpoint: 50em;
 
-@import "jekyll-theme-cayman";
+@import "{{ site.theme }}";
