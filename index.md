@@ -33,68 +33,68 @@
   <tbody>
     <tr>
       <th>Ground Truth</th>
-      <td><audio controls="" preload="none" style="width: 150px;">
+      <td><audio controls="" preload="none" style="width: 130px;">
             <source src="demo/GT/vocals_cut.wav"></audio></td>
-      <td><audio controls="" preload="none" style="width: 150px;">
+      <td><audio controls="" preload="none" style="width: 130px;">
             <source src="demo/GT/bass_cut.wav"></audio></td>
-      <td><audio controls="" preload="none" style="width: 150px;">
+      <td><audio controls="" preload="none" style="width: 130px;">
             <source src="demo/GT/drums_cut.wav"></audio></td>
-      <td><audio controls="" preload="none" style="width: 150px;">
+      <td><audio controls="" preload="none" style="width: 130px;">
             <source src="demo/GT/other_cut.wav"></audio></td>
     </tr>
     <tr>
       <th>Open-Unmix</th>
-      <td><audio controls="" preload="none" style="width: 150px;">
+      <td><audio controls="" preload="none" style="width: 130px;">
             <source src="demo/openunmix/1_vocals_22k_cut.wav"></audio></td>
-      <td><audio controls="" preload="none" style="width: 150px;">
+      <td><audio controls="" preload="none" style="width: 130px;">
             <source src="demo/openunmix/1_bass_22k_cut.wav"></audio></td>
-      <td><audio controls="" preload="none" style="width: 150px;">
+      <td><audio controls="" preload="none" style="width: 130px;">
             <source src="demo/openunmix/1_drums_22k_cut.wav"></audio></td>
-      <td><audio controls="" preload="none" style="width: 150px;">
+      <td><audio controls="" preload="none" style="width: 130px;">
             <source src="demo/openunmix/1_other_22k_cut.wav"></audio></td>
     </tr>
     <tr>
       <th>Demucs(v2)</th>
-      <td><audio controls="" preload="none" style="width: 150px;">
+      <td><audio controls="" preload="none" style="width: 130px;">
             <source src="demo/demucs/vocals_22k_cut.wav"></audio></td>
-      <td><audio controls="" preload="none" style="width: 150px;">
+      <td><audio controls="" preload="none" style="width: 130px;">
             <source src="demo/demucs/bass_22k_cut.wav"></audio></td>
-      <td><audio controls="" preload="none" style="width: 150px;">
+      <td><audio controls="" preload="none" style="width: 130px;">
             <source src="demo/demucs/drums_22k_cut.wav"></audio></td>
-      <td><audio controls="" preload="none" style="width: 150px;">
+      <td><audio controls="" preload="none" style="width: 130px;">
             <source src="demo/demucs/other_22k_cut.wav"></audio></td>
     </tr>
     <tr>
       <th>Wave-U-Net</th>
-      <td><audio controls="" preload="none" style="width: 150px;">
+      <td><audio controls="" preload="none" style="width: 130px;">
             <source src="demo/waveunet/mixture-1_vocals_22k_cut.wav"></audio></td>
-      <td><audio controls="" preload="none" style="width: 150px;">
+      <td><audio controls="" preload="none" style="width: 130px;">
             <source src="demo/waveunet/mixture-1_bass_22k_cut.wav"></audio></td>
-      <td><audio controls="" preload="none" style="width: 150px;">
+      <td><audio controls="" preload="none" style="width: 130px;">
             <source src="demo/waveunet/mixture-1_drums_22k_cut.wav"></audio></td>
-      <td><audio controls="" preload="none" style="width: 150px;">
+      <td><audio controls="" preload="none" style="width: 130px;">
             <source src="demo/waveunet/mixture-1_other_22k_cut.wav"></audio></td>
     </tr>
     <tr>
       <th>Tasnet</th>
-      <td><audio controls="" preload="none" style="width: 150px;">
+      <td><audio controls="" preload="none" style="width: 130px;">
             <source src="demo/tasnet/vocals_22k_cut.wav"></audio></td>
-      <td><audio controls="" preload="none" style="width: 150px;">
+      <td><audio controls="" preload="none" style="width: 130px;">
             <source src="demo/tasnet/bass_22k_cut.wav"></audio></td>
-      <td><audio controls="" preload="none" style="width: 150px;">
+      <td><audio controls="" preload="none" style="width: 130px;">
             <source src="demo/tasnet/drums_22k_cut.wav"></audio></td>
-      <td><audio controls="" preload="none" style="width: 150px;">
+      <td><audio controls="" preload="none" style="width: 130px;">
             <source src="demo/tasnet/other_22k_cut.wav"></audio></td>
     </tr>
     <tr>
       <th>InstGlow (Ours)</th>
-      <td><audio controls="" preload="none" style="width: 150px;">
+      <td><audio controls="" preload="none" style="width: 130px;">
             <source src="demo/instGlow/vocals_cut.wav"></audio></td>
-      <td><audio controls="" preload="none" style="width: 150px;">
+      <td><audio controls="" preload="none" style="width: 130px;">
             <source src="demo/instGlow/bass_cut.wav"></audio></td>
-      <td><audio controls="" preload="none" style="width: 150px;">
+      <td><audio controls="" preload="none" style="width: 130px;">
             <source src="demo/instGlow/drums_cut.wav"></audio></td>
-      <td><audio controls="" preload="none" style="width: 150px;">
+      <td><audio controls="" preload="none" style="width: 130px;">
             <source src="demo/instGlow/other_cut.wav"></audio></td>
     </tr>
   </tbody>
