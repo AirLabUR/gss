@@ -20,6 +20,8 @@
   <source src="demo/mixture-1.wav">
 </audio></center>
 <br>
+<div style="text-align: justify"> Separated sources: </div> 
+<br>
 <table align="center">
   <thead>
     <tr>
