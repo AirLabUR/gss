@@ -65,7 +65,7 @@
             <source src="demo/demucs/other_22k_cut.wav"></audio></td>
     </tr>
     <tr>
-      <th>Waveunet</th>
+      <th>Wave-U-Net</th>
       <td><audio controls="" preload="auto" style="width: 200px;">
             <source src="demo/waveunet/mixture-1_vocals_22k_cut.wav"></audio></td>
       <td><audio controls="" preload="auto" style="width: 200px;">
@@ -87,7 +87,7 @@
             <source src="demo/tasnet/other_22k_cut.wav"></audio></td>
     </tr>
     <tr>
-      <th>InstGlow</th>
+      <th>InstGlow (Ours)</th>
       <td><audio controls="" preload="auto" style="width: 200px;">
             <source src="demo/instGlow/vocals_cut.wav"></audio></td>
       <td><audio controls="" preload="auto" style="width: 200px;">
