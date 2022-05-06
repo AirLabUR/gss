@@ -14,10 +14,14 @@
 ## Audio Samples
 
 <div style="text-align: justify"> This mixture audio clip is from 'Zeno - Signs' in MUSDB18 test partition: </div> 
+<p style="margin-bottom : 6px;">
+</p>
 <center><audio controls="" preload="none">
   <source src="demo/mixture-1.wav">
 </audio></center>
 <div style="text-align: justify"> Separated sources: </div> 
+<p style="margin-bottom : 6px;">
+</p>
 <table align="center">
   <thead>
     <tr>
@@ -104,8 +108,7 @@
 <table align="center">
   <thead>
     <tr>
-      <th> </th>
-      <th>Mixtures</th>
+      <th>Mixture</th>
       <th>Vocals</th>
       <th>Accompaniment</th>
     </tr>
