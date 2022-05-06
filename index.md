@@ -105,14 +105,18 @@
 
 ## Bounus tracks
 <div style="text-align: justify">InstGlow: anyways here's wonderwall, and smoke on the water: </div> 
+<p style="margin-bottom : 6px;">
+</p>
 <table align="center">
   <thead>
     <tr>
+      <th> </th>
       <th>Mixture</th>
       <th>Vocals</th>
       <th>Accompaniment</th>
     </tr>
   </thead>
+  <tbody>
     <tr>
       <th>Wonderwall</th>
       <td><audio controls="" preload="none" style="width: 180px;">
