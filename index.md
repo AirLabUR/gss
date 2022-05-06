@@ -1,6 +1,7 @@
+# <center>Music Source Separation with Generative Flow</center>
+
 <center>Ge Zhu, Jordan Darefsky, Fei Jiang, Anton Selitskiy, and Zhiyao Duan</center>
 <center>AIRLab (University of Rochester), </center>
-
 
 ## Abstract
 
@@ -13,13 +14,10 @@
 ## Audio Samples
 
 <div style="text-align: justify"> This mixture audio clip is from 'Zeno - Signs' in MUSDB18 test partition: </div> 
-<br>
 <center><audio controls="" preload="none">
   <source src="demo/mixture-1.wav">
 </audio></center>
-<br>
 <div style="text-align: justify"> Separated sources: </div> 
-<br>
 <table align="center">
   <thead>
     <tr>
@@ -96,6 +94,30 @@
             <source src="demo/instGlow/drums_cut.wav"></audio></td>
       <td><audio controls="" preload="none" style="width: 130px;">
             <source src="demo/instGlow/other_cut.wav"></audio></td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+<div style="text-align: justify"> Bounus tracks using InstGlow: anyways here's wonderwall, and smoke on the water: </div> 
+<table align="center">
+  <thead>
+    <tr>
+      <th>Wonderwall</th>
+      <td><audio controls="" preload="none" style="width: 150px;">
+            <source src="demo/ww.wav"></audio></td>
+      <td><audio controls="" preload="none" style="width: 150px;">
+            <source src="demo/instGlow/ww_vocals.wav"></audio></td>
+      <td><audio controls="" preload="none" style="width: 150px;">
+            <source src="demo/instGlow/ww_acc.wav"></audio></td>
+    </tr>
+    <th>SOTW</th>
+      <td><audio controls="" preload="none" style="width: 150px;">
+            <source src="demo/sotw.wav"></audio></td>
+      <td><audio controls="" preload="none" style="width: 150px;">
+            <source src="demo/instGlow/sotw_vocals.wav"></audio></td>
+      <td><audio controls="" preload="none" style="width: 150px;">
+            <source src="demo/instGlow/sotw_acc.wav"></audio></td>
     </tr>
   </tbody>
 </table>
