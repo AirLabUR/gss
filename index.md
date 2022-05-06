@@ -17,21 +17,23 @@
 ## Audio Samples
 
 <div style="text-align: justify"> This audio clip is from 'Zeno - Signs' in MUSDB18 test partition. </div> 
-
+<div></div> 
+<div></div> 
+<div></div> 
 <table align="center">
   <thead>
     <tr>
       <th> </th>
-      <th style="width:50%">Vocal</th>
-      <th style="width:50%">Bass</th>
-      <th style="width:50%">Drums</th>
-      <th style="width:50%">Other</th>
+      <th>Vocal</th>
+      <th>Bass</th>
+      <th>Drums</th>
+      <th>Other</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <th>Ground Truth</th>
-      <td style="width:50%"><audio controls="" preload="auto">
+      <td><audio controls="" preload="auto" style="width: 100px;">
             <source src="demo/GT/vocals_cut.wav"></audio></td>
       <td><audio controls="" preload="auto">
             <source src="demo/GT/bass_cut.wav"></audio></td>
@@ -42,7 +44,7 @@
     </tr>
     <tr>
       <th>Openunmix</th>
-      <td style="width:50%"><audio controls="" preload="auto">
+      <td><audio controls="" preload="auto">
             <source src="demo/openunmix/1_vocals_22k_cut.wav"></audio></td>
       <td><audio controls="" preload="auto">
             <source src="demo/openunmix/1_bass_22k_cut.wav"></audio></td>
@@ -53,7 +55,7 @@
     </tr>
     <tr>
       <th>Demucs</th>
-      <td style="width:50%"><audio controls="" preload="auto">
+      <td><audio controls="" preload="auto">
             <source src="demo/demucs/vocals_22k_cut.wav"></audio></td>
       <td><audio controls="" preload="auto">
             <source src="demo/demucs/bass_22k_cut.wav"></audio></td>
@@ -64,7 +66,7 @@
     </tr>
     <tr>
       <th>Waveunet</th>
-      <td style="width:50%"><audio controls="" preload="auto">
+      <td><audio controls="" preload="auto">
             <source src="demo/waveunet/mixture-1_vocals_22k_cut.wav"></audio></td>
       <td><audio controls="" preload="auto">
             <source src="demo/waveunet/mixture-1_bass_22k_cut.wav"></audio></td>
@@ -75,7 +77,7 @@
     </tr>
     <tr>
       <th>Tasnet</th>
-      <td style="width:50%"><audio controls="" preload="auto">
+      <td><audio controls="" preload="auto">
             <source src="demo/tasnet/vocals_22k_cut.wav"></audio></td>
       <td><audio controls="" preload="auto">
             <source src="demo/tasnet/bass_22k_cut.wav"></audio></td>
@@ -86,7 +88,7 @@
     </tr>
     <tr>
       <th>InstGlow</th>
-      <td style="width:50%"><audio controls="" preload="auto">
+      <td><audio controls="" preload="auto">
             <source src="demo/instGlow/vocals_cut.wav"></audio></td>
       <td><audio controls="" preload="auto">
             <source src="demo/instGlow/bass_cut.wav"></audio></td>
